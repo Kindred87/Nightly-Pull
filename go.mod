@@ -1,6 +1,6 @@
 module github.com/Kindred87/nightlypull
 
-go 1.21.6
+go 1.21.4
 
 require (
 	github.com/go-rod/rod v0.114.6
